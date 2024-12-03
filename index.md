@@ -32,3 +32,7 @@ Cred to all owncers of the links. My email is: eearboot@gmai.com if you need any
 <a href="https://info.electrodata.com.ar/">
   <button type="button" class="btn btn-outline-primary">Intersteller 🌙</button>
 </a>
+
+  <li class="masthead__menu-item">
+          <a href="xeeonalli.github.io/stuff.html">Stuff</a>
+        </li>
