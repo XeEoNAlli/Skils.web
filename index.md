@@ -1,6 +1,7 @@
 ---
 tittle: Skils
-description: hi
+description: We just opend
+Last update: 2024-12-3 @ 12:15
 ---
 
 
