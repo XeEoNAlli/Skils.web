@@ -1,10 +1,9 @@
 ---
 tittle: Skils
+description: hi
 ---
 
----
-description: hello
----
+
  Welcome to Skils. havve funn!!
 
 
