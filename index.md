@@ -33,6 +33,6 @@ Cred to all owncers of the links. My email is: eearboot@gmai.com if you need any
   <button type="button" class="btn btn-outline-primary">Intersteller 🌙</button>
 </a>
 
-  <li class="masthead__menu-item">
-          <a href="/xeeonalli.github.io/skills-github-pages/xeeonalli.github.io/stuff">stuff</a>
+ <li class="masthead__menu-item">
+          <a href="/xeeonalli.github.io/skills-github-pages/stuff">stuff</a>
         </li>
