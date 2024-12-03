@@ -1,5 +1,8 @@
+-
+tittle: Skils
+-
 ---
-title: Welcome to Skils. havve funn!!
+description: Welcome to Skils. havve funn!!
 ---
 
 --
