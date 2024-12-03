@@ -34,5 +34,5 @@ Cred to all owncers of the links. My email is: eearboot@gmai.com if you need any
 </a>
 
   <li class="masthead__menu-item">
-          <a href="xeeonalli.github.io/stuff.html">Stuff.html</a>
+          <a href="https://xxx.github.io/stuff">stuff</a>
         </li>
