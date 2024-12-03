@@ -2,7 +2,6 @@
 tittle: Skils
 description: We just opend
 Last update: 2024-12-3 @ 12:15
-header: test
 ---
 this is skils
 Enjoy
@@ -30,3 +29,10 @@ Cred to all owncers of the links. My email is: eearboot@gmai.com if you need any
   <button type="button" class="btn btn-outline-primary">emerald ✨</button>
 </a>
 
+<a href="developer-portfolio.pages.dev">
+  <button type="button" class="btn btn-outline-primary">Intersteller 🌙</button>
+</a>
+
+<a href="developer-portfolio.pages.dev">
+  <button type="button" class="btn btn-outline-primary">Intersteller 🌙</button>
+</a>
