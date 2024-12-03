@@ -2,7 +2,7 @@
 tittle: Skils
 ---
 ---
-description: Welcome to Skils. havve funn!!
+ Welcome to Skils. havve funn!!
 ---
 
 --
