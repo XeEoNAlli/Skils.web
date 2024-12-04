@@ -1,6 +1,6 @@
 
 # Welcome to Skils. havve funn!!
-## we just opened. Tell me if theres blocked stuff on the site.
+## Tell me if theres blocked stuff on the site.
 ### Last update: 2024-12-3 @ 12:15
 
 
