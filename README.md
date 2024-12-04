@@ -2,8 +2,5 @@
 erm hi
 i kinda new to github pages and yea
 
-
-## skils is just a test erm yea
-If you want to fork or use the website idk
-let me know at: eearboot@gmail.com
-And mak sur to give cred to me.
+### If you want to sugges or help me with anything let me know
+eearboot@gmail.com
