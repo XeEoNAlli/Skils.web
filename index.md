@@ -33,10 +33,6 @@ Cred to all owncers of the links. My email is: eearboot@gmai.com if you need any
   <button type="button" class="btn btn-outline-primary">Intersteller 🌙</button>
 </a>
 
-  <li class="masthead__menu-item">
-          <a href="/xeeonalli.github.io/skills-github-pages/stuff.html">stuff</a>
-        </li>
-     
-<a href="https://google.com/">
-  <button type="button" class="btn btn-outline-primary">test button</button>
+<a href="https://math-work-version-6.web.app">
+  <button type="button" class="btn btn-outline-primary">JMW</button>
 </a>
