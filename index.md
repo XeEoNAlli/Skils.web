@@ -3,9 +3,6 @@
 [stuff](stuff.md)
 [Backup](backup.md)
 
-this is skils
-Enjoy
-
 
 # Welcome to Skils. havve funn!!
 ## we just opened. Tell me if theres blocked stuff on the site.
