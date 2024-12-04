@@ -1,10 +1,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 [stuff](stuff.md)
 [Backup](backup.md)
-
-<a href="[Backup](backup.md)">
-  <button type="button" class="btn btn-outline-primary">JMW</button>
-</a>
 
 this is skils
 Enjoy
