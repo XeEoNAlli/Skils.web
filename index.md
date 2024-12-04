@@ -1,12 +1,13 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-### Last update: 2024-12-3 @ 12:15
 
 this is skils
 Enjoy
 
 
 # Welcome to Skils. havve funn!!
+## we just opened. Tell me if theres blocked stuff on the site.
+### Last update: 2024-12-3 @ 12:15
 
 
 
