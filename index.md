@@ -1,4 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+[stuff](stuff.md)
+[Backup](backup.md)
 
 
 this is skils
@@ -36,5 +38,3 @@ Cred to all owncers of the links. My email is: eearboot@gmai.com if you need any
 <a href="https://math-work-version-6.web.app">
   <button type="button" class="btn btn-outline-primary">JMW</button>
 </a>
-
-[stuff](stuff.md)
