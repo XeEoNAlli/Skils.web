@@ -1,10 +1,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
----
-tittle: Skils
-description: We just opend
-Last update: 2024-12-3 @ 12:15
----
+### Last update: 2024-12-3 @ 12:15
+
 this is skils
 Enjoy
 
