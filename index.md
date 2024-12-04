@@ -1,8 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
-[stuff](stuff.md)
-[Backup](backup.md)
-
 
 # Welcome to Skils. havve funn!!
 ## we just opened. Tell me if theres blocked stuff on the site.
