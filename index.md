@@ -1,8 +1,16 @@
- Skils.web
- # erm havve fun.
+ #Skils.web
+ ## erm havve fun.
 Tell me if theres blocked stuff in the site
 [stuff](stuff.md)
 [backup](backup.md)
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|Unbloc| Emerald ✨    |
+|   N/a|               |
+|   N/a|               |
+
+
 
 <a href="https://eflb.is-cool.dev/">
   <button type="button" class="btn btn-outline-primary">Emerald ✨</button>
