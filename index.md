@@ -22,7 +22,7 @@ Tell me if theres blocked stuff in the site
 | Status | Site |
 |-----:|---------------|
 |Unbloc| Emerald ✨    |
-|Unbloc| Equinox       |
+|Unbloc|Equinox(pass: equinox)| 
 |Unbloc|   Ghost       |
 |Unbloc| Interstller   |
 
