@@ -12,8 +12,6 @@ Tell me if theres blocked stuff in the site
 |Unbloc| Emerald ✨    |
 |   N/a|               |
 |   N/a|               |
-
-
 </details
 
 <a href="https://eflb.is-cool.dev/">
