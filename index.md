@@ -13,7 +13,6 @@ Cred to all owncers of the links. My email is: eearboot@gmai.com if you need any
 
 Tell me if theres blocked stuff in the site
 [stuff](stuff.md)
-[backup](backup.md)
 
 <a href="https://www.google.com/">
   <button type="button" class="btn btn-outline-primary">Panic button</button>
