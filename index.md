@@ -5,11 +5,16 @@ Tell me if theres blocked stuff in the site
 [stuff](stuff.md)
 [backup](backup.md)
 
+a href="https://www.google.com/">
+  <button type="button" class="btn btn-outline-primary">Panic button</button>
+</a>
+
 | Status | Site |
 |-----:|---------------|
 |Unbloc| Emerald ✨    |
 |Unbloc| Equinox       |
-|   N/a|               |
+|Unbloc|   Ghost       |
+|Unbloc| Interstller   |
 
 
 
@@ -20,4 +25,12 @@ Tell me if theres blocked stuff in the site
 
 <a href="https://asd98012mk3ls.github.io/">
   <button type="button" class="btn btn-outline-primary">Equinox</button>
+</a>
+
+<a href="https://red.masplenedigitalworld.com">
+  <button type="button" class="btn btn-outline-primary">Ghost</button>
+</a>
+
+<a href="https://info.electrodata.com.ar/">
+  <button type="button" class="btn btn-outline-primary">Intersteller 🌙</button>
 </a>
