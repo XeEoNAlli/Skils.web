@@ -1,3 +1,6 @@
-hi
-halo
-[go to home](index.md)
+<details>
+<summary>Go home</summary>
+
+ [go to home](index.md)
+
+</details>
