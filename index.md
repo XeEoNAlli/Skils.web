@@ -5,7 +5,7 @@ Tell me if theres blocked stuff in the site
 [stuff](stuff.md)
 [backup](backup.md)
 
-a href="https://www.google.com/">
+<a href="https://www.google.com/">
   <button type="button" class="btn btn-outline-primary">Panic button</button>
 </a>
 
