@@ -4,7 +4,7 @@ Tell me if theres blocked stuff in the site
 [stuff](stuff.md)
 [backup](backup.md)
 
-| Rank | THING-TO-RANK |
+| Status | Site |
 |-----:|---------------|
 |Unbloc| Emerald ✨    |
 |   N/a|               |
