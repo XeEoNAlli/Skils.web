@@ -20,10 +20,10 @@ Tell me if theres blocked stuff in the site
 
 | Status | Site |
 |-----:|---------------|
-|Unbloc| Emerald ✨    |
-|Unbloc|Equinox(pass: equinox)| 
-|Unbloc|   Ghost       |
-|Unbloc| Interstller   |
+|blocked| Emerald ✨    |
+|blocked|Equinox(pass: equinox)| 
+|blocked|   Ghost       |
+|blocked| Interstller   |
 
 
 
