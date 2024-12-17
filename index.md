@@ -6,10 +6,10 @@ Last update: 2024-12-3 @ 12:15
 this is skils
 Enjoy
 
-# <=-Warning-=>
+# <=-  Warning ⚠ -=>
 We are on a sortage on proxys 
 if you have any, please send to eearboot@gmail.com
-## Thanks
+## Thanks 
 
 
 ## Welcome to Skils. havve funn!!
