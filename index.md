@@ -43,7 +43,7 @@ Tell me if theres blocked stuff in the site
 </a>
 
 <a href="https://red.masplenedigitalworld.com">
-  <button type="button" class="btn btn-outline-primary">Ghost</button>
+  <button type="button" class="btn btn-outline-primary">Ghost 👻</button>
 </a>
 
 <a href="https://info.electrodata.com.ar/">
@@ -51,6 +51,9 @@ Tell me if theres blocked stuff in the site
 </a>
 
 <a href="https://j0n12.github.io/macvg1/">
-  <button type="button" class="btn btn-outline-primary">Intersteller 🌙</button>
+  <button type="button" class="btn btn-outline-primary">MacVNG </button>
 </a>
 
+<a href="https://jmw-v4.pages.dev/">
+  <button type="button" class="btn btn-outline-primary">Jordan Math Work ➕</button>
+</a>
