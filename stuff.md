@@ -8,5 +8,7 @@ description: This page is temporary blank
 
 1. Make a bookmark and name it anything.
 ---
-3. Chnage the url to chrome://chrome-signin
+2. Chnage the url to chrome://chrome-signin
+---
+3. Then Save the bookmark 
 ---
