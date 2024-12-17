@@ -29,7 +29,8 @@ Tell me if theres blocked stuff in the site
 |blocked 🔴|Equinox(pass: equinox)| 
 |blocked 🔴|   Ghost       |
 |blocked 🔴| Interstller   |
-|Unblock 🟢 | Macnvg        |
+|Unblock 🟢 | Macnvg       |
+|Unblock 🟢 | Jordan Math work|
 
 
 <a href="https://eflb.is-cool.dev/">
