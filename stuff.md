@@ -2,9 +2,7 @@
 Tittle: notthing here for now...
 description: This page is temporary blank
 ---
-<a href="[go to home](index.md)">
-  <button type="button" class="btn btn-outline-primary">Go back home</button>
-</a>
+[Home](index.md)
 
 # Chrome signin
 
