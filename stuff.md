@@ -7,4 +7,4 @@ description: This page is temporary blank
 # Chrome signin
 
 1. Make a bookmark and name it anything.
-2. Chnage the url to > chrome://chrome-signin
+2. Chnage the url to >chrome://chrome-signin
