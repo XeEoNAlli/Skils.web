@@ -10,3 +10,9 @@ description: This page is temporary blank
 2. Chnage the url to "chrome://chrome-signin"
 3. Then Save the bookmark 
 ___
+4. click the bookmark and put "google@d11.org" in the signin box and do the capcha.
+5. then click signin options and click "Signin with github"
+6. Click docs on the github page.
+7. scroll down to "Ask the Github community"
+8. After tat, go to the search bar and search google
+9. Click the google.com link at the top right
