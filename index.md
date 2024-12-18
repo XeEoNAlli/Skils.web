@@ -9,6 +9,10 @@ Enjoy
 # <=-  Warning ⚠ -=>
 We are on a sortage on proxys 
 if you have any, please send to eearboot@gmail.com
+Be carful of chrome tab overflowers!!!
+websites like this one crash you computer!!
+"https://sirhorseyinfo.github.io/testgamepage/comp-crasher.html"
+# BE CARFUL!!!
 ## Thanks 
 
 
