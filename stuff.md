@@ -2,7 +2,12 @@
 Tittle: notthing here for now...
 description: This page is temporary blank
 ---
-[Home](index.md)
+[Home](index.md
+
+| Status | Bookmarks |
+|-----:|---------------|
+|Not pached 🟢 | Chrome signin   |
+|Not pached 🟢 | E3xThangler|
 
 # Chrome signin
 
