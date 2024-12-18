@@ -21,7 +21,7 @@ hallo. Ima updat dis website when i can.
 Cred to all owncers of the links. My email is: eearboot@gmai.com if you need any help.
 
 Tell me if theres blocked stuff in the site
-[stuff](stuff.md)
+[tools](stuff.md)
 
 <a href="https://www.google.com/">
   <button type="button" class="btn btn-outline-primary">Panic button</button>
