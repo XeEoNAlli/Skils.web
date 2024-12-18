@@ -29,7 +29,7 @@ Tell me if theres blocked stuff in the site
 |blocked 🔴|Equinox(pass: equinox)| 
 |blocked 🔴|   Ghost       |
 |blocked 🔴| Interstller   |
-|blocked for some 🟡 | Macnvg       |
+|blocked for some people 🟡 | Macnvg       |
 |Unblock 🟢 | Jordan Math work|
 
 
